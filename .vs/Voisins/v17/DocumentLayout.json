@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{D5942E0E-23EF-4523-87A2-81714F9C93B7}|Voisins\\Voisins.vcxproj|solutionrelative:Voisins\\RessourceLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D5942E0E-23EF-4523-87A2-81714F9C93B7}|Voisins\\Voisins.vcxproj|C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\KNN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5942E0E-23EF-4523-87A2-81714F9C93B7}|Voisins\\Voisins.vcxproj|solutionrelative:Voisins\\KNN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5942E0E-23EF-4523-87A2-81714F9C93B7}|Voisins\\Voisins.vcxproj|C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\KNN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5942E0E-23EF-4523-87A2-81714F9C93B7}|Voisins\\Voisins.vcxproj|solutionrelative:Voisins\\KNN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5942E0E-23EF-4523-87A2-81714F9C93B7}|Voisins\\Voisins.vcxproj|C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\Statistiques.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D5942E0E-23EF-4523-87A2-81714F9C93B7}|Voisins\\Voisins.vcxproj|solutionrelative:Voisins\\Statistiques.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KNN.cpp",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\KNN.cpp",
+              "RelativeDocumentMoniker": "Voisins\\KNN.cpp",
+              "ToolTip": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\KNN.cpp",
+              "RelativeToolTip": "Voisins\\KNN.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T15:08:30.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KNN.h",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\KNN.h",
+              "RelativeDocumentMoniker": "Voisins\\KNN.h",
+              "ToolTip": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\KNN.h",
+              "RelativeToolTip": "Voisins\\KNN.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-10T14:24:36.589Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +74,7 @@
               "RelativeDocumentMoniker": "Voisins\\RessourceLoader.cpp",
               "ToolTip": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\RessourceLoader.cpp",
               "RelativeToolTip": "Voisins\\RessourceLoader.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAAD4v5wAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-27T19:28:23.066Z",
               "EditorCaption": ""
@@ -53,38 +87,38 @@
               "RelativeDocumentMoniker": "Voisins\\RessourceLoader.h",
               "ToolTip": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\RessourceLoader.h",
               "RelativeToolTip": "Voisins\\RessourceLoader.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-26T22:23:09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Statistiques.h",
               "DocumentMoniker": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\Statistiques.h",
               "RelativeDocumentMoniker": "Voisins\\Statistiques.h",
               "ToolTip": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\Statistiques.h",
               "RelativeToolTip": "Voisins\\Statistiques.h",
-              "ViewState": "AgIAAAcAAAAAAAAAAAD4vw0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-23T15:32:39.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Statistiques.cpp",
               "DocumentMoniker": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\Statistiques.cpp",
               "RelativeDocumentMoniker": "Voisins\\Statistiques.cpp",
               "ToolTip": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\Statistiques.cpp",
               "RelativeToolTip": "Voisins\\Statistiques.cpp",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAD4AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-23T15:32:26.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Voisins.cpp",
               "DocumentMoniker": "C:\\Users\\james\\OneDrive - C\u00E9gep de Victoriaville\\Documents\\Prog3\\Voisins\\Voisins\\Voisins.cpp",
               "RelativeDocumentMoniker": "Voisins\\Voisins.cpp",

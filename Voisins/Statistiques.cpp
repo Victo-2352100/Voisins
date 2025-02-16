@@ -54,7 +54,7 @@ float Statistiques::calculDistanceEuclyde(vector<float> nombres)
 		return 0;
 	}
 	for (int i = 0; i < nombres.size();i++) {
-		somme += nombres[i];
+		somme += (nombres[i]*nombres[i]);
 	}
 	somme = sqrt(somme);
 	return somme;

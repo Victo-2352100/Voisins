@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="KNN.cpp" />
     <ClCompile Include="RessourceLoader.cpp" />
     <ClCompile Include="Statistiques.cpp" />
     <ClCompile Include="Voisins.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="KNN.h" />
     <ClInclude Include="RessourceLoader.h" />
     <ClInclude Include="Statistiques.h" />
   </ItemGroup>

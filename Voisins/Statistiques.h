@@ -4,6 +4,8 @@
 #include <string>
 using namespace std;
 class Statistiques {
+private:
+public:
 	float calculMoyenne(vector<float>);
 	float calculMediane(vector<float>);
 	float calculEcartType(vector<float>);

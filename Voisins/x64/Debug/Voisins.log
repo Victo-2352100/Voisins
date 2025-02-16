@@ -1,0 +1,7 @@
+﻿  RessourceLoader.cpp
+  Statistiques.cpp
+C:\Users\james\OneDrive - Cégep de Victoriaville\Documents\Prog3\Voisins\Voisins\Statistiques.cpp(21,39): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\james\OneDrive - Cégep de Victoriaville\Documents\Prog3\Voisins\Voisins\Statistiques.cpp(25,45): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  Voisins.cpp
+  Génération de code en cours...
+  Voisins.vcxproj -> C:\Users\james\OneDrive - Cégep de Victoriaville\Documents\Prog3\Voisins\x64\Debug\Voisins.exe
